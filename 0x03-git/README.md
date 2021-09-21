@@ -1,1 +1,1 @@
-This a README file for the 0x03-GIT exercise.
+This an edited README file for the 0x03-GIT exercise.
