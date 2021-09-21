@@ -1,1 +1,1 @@
-This is a mandatory file.
+This is an edited mandatory file.
